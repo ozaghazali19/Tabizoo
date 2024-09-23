@@ -1,14 +1,3 @@
-# TabiZoo - Auto Claim Bot
-
-🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=A1gqF1)
-
-## 📢 Telegram Group
-
-Join our Telegram group to stay updated and get instructions on how to use this tool:
-
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
-
 ## 🌟 Features
 
 | Feature       | Status | Description                       |
@@ -30,4 +19,3 @@ Join our Telegram group to stay updated and get instructions on how to use this 
   - `Network` --> Filter `profile` or `info` --> `Request Headers` --> `Rawdata`
   - Starts with `query_id=...`
 - Auto features: Change `false` to `true` in the `config.json` file.
-- Supported commands: `/run_bot` `/proxy` `/proxy_web` (Join group to use these commands).
